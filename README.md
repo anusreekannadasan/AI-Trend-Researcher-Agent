@@ -70,6 +70,18 @@ Generates visually formatted HTML email digests containing the most valuable con
 Includes automated retry mechanisms and workflow safeguards to handle temporary API failures gracefully.
 
 ---
+## 📸 Visual Proof of Concept
+
+### Workflow Automation Scenario (Make.com Canvas)
+![Make.com Scenario Flow](./assets/flowchart.jpeg)
+
+### Google Sheets Database Output
+![Google Sheets Output](./assets/sheets-success.jpeg)
+
+### HTML Email Digest Output
+![Email Output](./assets/email-brief.jpeg)
+
+---
 
 ## 🏗️ System Architecture
 
